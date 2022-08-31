@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "message": "Resources retrieved successfully",
+  "data": {
+    "actor": "Kevin Bacon",
+    "connected_to": "Kevin Bacon",
+    "bacon_no": 1,
+    "connection": "Kevin Bacon --> (Criminal Law - 1988) --> Gary Oldman \n Gary Oldman --> (Criminal Law - 1988) --> Kevin Bacon"
+  }
+}

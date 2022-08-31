@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "message": "Resources retrieved successfully",
+  "data": {
+    "actor": "Melinda Hill",
+    "connected_to": "Kevin Bacon",
+    "bacon_no": 2,
+    "connection": "Melinda Hill --> (Perfection - 2012) --> Jeff Kober \n Jeff Kober --> (One Tough Bastard - 1996) --> Bruce Payne \n Bruce Payne --> (Pyrates - 1991) --> Kevin Bacon"
+  }
+}

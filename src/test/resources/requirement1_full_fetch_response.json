@@ -1,0 +1,1646 @@
+{
+  "status": "OK",
+  "message": "Resources retrieved successfully",
+  "data": {
+    "content": [
+      {
+        "id": "tt9901352",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet Poem Unlimited",
+        "originalTitle": "Hamlet Poem Unlimited",
+        "startYear": "2018",
+        "endYear": null,
+        "runtimeMinutes": 60,
+        "genres": "Drama",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [],
+        "writers": [],
+        "principals": [
+          {
+            "titleId": "tt9901352",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm10488220",
+              "primaryName": "Aidan Amore",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt4187428",
+                "tt9901352",
+                "tt9916416"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet']"
+          },
+          {
+            "titleId": "tt9901352",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm0408910",
+              "primaryName": "Isabelle Ingold",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "editor",
+                "director",
+                "sound_department"
+              ],
+              "knownForTitles": [
+                "tt11692166",
+                "tt0130144",
+                "tt0424365",
+                "tt5840348"
+              ]
+            },
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt9901352",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm7337700",
+              "primaryName": "Viviane Perelmuter",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "cinematographer",
+                "editor"
+              ],
+              "knownForTitles": [
+                "tt6632314",
+                "tt5840348"
+              ]
+            },
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt9703966",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet",
+        "originalTitle": "Hamlet",
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": "Drama",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [
+          {
+            "id": "nm3271648",
+            "primaryName": "Georgios Panteleakis",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "editor",
+              "director",
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt2912184",
+              "tt9027590",
+              "tt1649392",
+              "tt2298229"
+            ]
+          }
+        ],
+        "writers": [
+          {
+            "id": "nm3271648",
+            "primaryName": "Georgios Panteleakis",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "editor",
+              "director",
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt2912184",
+              "tt9027590",
+              "tt1649392",
+              "tt2298229"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt9703966",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm3271648",
+              "primaryName": "Georgios Panteleakis",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "editor",
+                "director",
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt2912184",
+                "tt9027590",
+                "tt1649392",
+                "tt2298229"
+              ]
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt9703966",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm1794098",
+              "primaryName": "Justin Pearson",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "stunts",
+                "actor",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt2395427",
+                "tt2379713",
+                "tt0451279",
+                "tt1074638"
+              ]
+            },
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt9440248",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet Shakespeare's Globe",
+        "originalTitle": "Hamlet Shakespeare's Globe",
+        "startYear": "2018",
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": "Drama",
+        "averageRating": 7.8,
+        "numVotes": 52,
+        "directors": [],
+        "writers": [],
+        "principals": [
+          {
+            "titleId": "tt9440248",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm2467859",
+              "primaryName": "Catrin Aaron",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt9440248",
+                "tt6217306",
+                "tt1731601",
+                "tt4218618"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Horatio']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm2548913",
+              "primaryName": "James Garnon",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt3840898",
+                "tt1521197",
+                "tt3773058",
+                "tt1783393"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Claudius']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm0403424",
+              "primaryName": "Colin Hurley",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt5622262",
+                "tt0280770",
+                "tt0097499",
+                "tt0092335"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Ghost','Gravedigger','Player #1']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm3308176",
+              "primaryName": "Bettrys Jones",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt1667439",
+                "tt11430380",
+                "tt9440248",
+                "tt0840196"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Laertes','Player #2']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 5,
+            "personInfo": {
+              "id": "nm1050820",
+              "primaryName": "Richard Katz",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt2204714",
+                "tt0157583",
+                "tt1355631",
+                "tt2015381"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Polonius','Priest']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 6,
+            "personInfo": {
+              "id": "nm2713087",
+              "primaryName": "Jack Laskey",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt1515091",
+                "tt1985443",
+                "tt2488496",
+                "tt2701582"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Francisco','Player #3','Fortinbras']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 7,
+            "personInfo": {
+              "id": "nm3981543",
+              "primaryName": "Nadia Nadarajah",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress",
+                "director",
+                "writer"
+              ],
+              "knownForTitles": [
+                "tt0088512",
+                "tt4547132",
+                "tt1686766",
+                "tt9440248"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Guildenstern']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 8,
+            "personInfo": {
+              "id": "nm0703522",
+              "primaryName": "Pearce Quigley",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt1212419",
+                "tt0200720",
+                "tt1023114",
+                "tt1182350"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Rosencrantz']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 9,
+            "personInfo": {
+              "id": "nm4788100",
+              "primaryName": "Shubham Saraf",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt1738351",
+                "tt7493974",
+                "tt10795574",
+                "tt9348692"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Ophelia','Osric']"
+          },
+          {
+            "titleId": "tt9440248",
+            "ordering": 10,
+            "personInfo": {
+              "id": "nm0772255",
+              "primaryName": "Helen Schlesinger",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt0274309",
+                "tt0203248",
+                "tt3313066",
+                "tt0476940"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Gertrude']"
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt9297616",
+        "titleType": "movie",
+        "primaryTitle": "Ten Deaths of Hamlet",
+        "originalTitle": "Ten Deaths of Hamlet",
+        "startYear": "2020",
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": "Thriller",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [
+          {
+            "id": "nm3375208",
+            "primaryName": "Ryan Davy",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "cinematographer",
+              "director",
+              "editor"
+            ],
+            "knownForTitles": [
+              "tt1642260",
+              "tt9297616",
+              "tt3077476",
+              "tt8540826"
+            ]
+          }
+        ],
+        "writers": [
+          {
+            "id": "nm3375208",
+            "primaryName": "Ryan Davy",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "cinematographer",
+              "director",
+              "editor"
+            ],
+            "knownForTitles": [
+              "tt1642260",
+              "tt9297616",
+              "tt3077476",
+              "tt8540826"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt9297616",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm2415415",
+              "primaryName": "Antonio Lexerot",
+              "birthYear": "1974",
+              "deathYear": null,
+              "primaryProfessions": [
+                "producer",
+                "director",
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt9431036",
+                "tt7150944",
+                "tt9155622",
+                "tt1989632"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['King Claudius']"
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm2336822",
+              "primaryName": "Barrett Ogden",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "writer"
+              ],
+              "knownForTitles": [
+                "tt1725124",
+                "tt5038306",
+                "tt9297654",
+                "tt0892051"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet']"
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm10766423",
+              "primaryName": "Taylor Prue",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": []
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Osric']"
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm5526873",
+              "primaryName": "Corey Sondrup",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "art_department",
+                "writer"
+              ],
+              "knownForTitles": [
+                "tt4877606",
+                "tt5347156",
+                "tt10887504",
+                "tt5215096"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet's Father']"
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 5,
+            "personInfo": {
+              "id": "nm3375208",
+              "primaryName": "Ryan Davy",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "cinematographer",
+                "director",
+                "editor"
+              ],
+              "knownForTitles": [
+                "tt1642260",
+                "tt9297616",
+                "tt3077476",
+                "tt8540826"
+              ]
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 6,
+            "personInfo": {
+              "id": "nm1789695",
+              "primaryName": "Pierre Vaucher",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "composer",
+                "music_department",
+                "sound_department"
+              ],
+              "knownForTitles": [
+                "tt8879858",
+                "tt9247522",
+                "tt7435096",
+                "tt6144530"
+              ]
+            },
+            "category": "composer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt9297616",
+            "ordering": 7,
+            "personInfo": {
+              "id": "nm9060811",
+              "primaryName": "Melinda Yeaman",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress",
+                "writer",
+                "producer"
+              ],
+              "knownForTitles": [
+                "tt8540826"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Getrude']"
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt7827542",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet 360",
+        "originalTitle": "Hamlet 360",
+        "startYear": "2017",
+        "endYear": null,
+        "runtimeMinutes": 90,
+        "genres": "Drama",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [
+          {
+            "id": "nm9530226",
+            "primaryName": "Kovács D. Dániel",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "director"
+            ],
+            "knownForTitles": []
+          },
+          {
+            "id": "nm3826506",
+            "primaryName": "Kriszta Székely",
+            "birthYear": "1982",
+            "deathYear": null,
+            "primaryProfessions": [
+              "director",
+              "actress",
+              "assistant_director"
+            ],
+            "knownForTitles": [
+              "tt1620777",
+              "tt1612602",
+              "tt7827542"
+            ]
+          },
+          {
+            "id": "nm4876423",
+            "primaryName": "Balázs Benõ Fehér",
+            "birthYear": "1990",
+            "deathYear": null,
+            "primaryProfessions": [
+              "actor",
+              "director"
+            ],
+            "knownForTitles": [
+              "tt4599252",
+              "tt5161018",
+              "tt2171829",
+              "tt7827542"
+            ]
+          }
+        ],
+        "writers": [
+          {
+            "id": "nm0000636",
+            "primaryName": "William Shakespeare",
+            "birthYear": "1564",
+            "deathYear": "1616",
+            "primaryProfessions": [
+              "writer",
+              "soundtrack",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt3894536",
+              "tt5377528",
+              "tt5932378",
+              "tt8632012"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt7827542",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm0080077",
+              "primaryName": "Zoltán Bezerédy",
+              "birthYear": "1955",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "director"
+              ],
+              "knownForTitles": [
+                "tt0426273",
+                "tt0078868",
+                "tt0128888",
+                "tt0111953"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm3730253",
+              "primaryName": "Alexandra Borbély",
+              "birthYear": "1986",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt3031966",
+                "tt5607714",
+                "tt3059638",
+                "tt7759362"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm0253219",
+              "primaryName": "Ferenc Elek",
+              "birthYear": "1974",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt1340834",
+                "tt0411477",
+                "tt5439760",
+                "tt1606378"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm0270847",
+              "primaryName": "Ernõ Fekete",
+              "birthYear": "1972",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt8757586",
+                "tt1125825",
+                "tt4964310",
+                "tt3808342"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 5,
+            "personInfo": {
+              "id": "nm9530226",
+              "primaryName": "Kovács D. Dániel",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "director"
+              ],
+              "knownForTitles": []
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 6,
+            "personInfo": {
+              "id": "nm4876423",
+              "primaryName": "Balázs Benõ Fehér",
+              "birthYear": "1990",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "director"
+              ],
+              "knownForTitles": [
+                "tt4599252",
+                "tt5161018",
+                "tt2171829",
+                "tt7827542"
+              ]
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 7,
+            "personInfo": {
+              "id": "nm3826506",
+              "primaryName": "Kriszta Székely",
+              "birthYear": "1982",
+              "deathYear": null,
+              "primaryProfessions": [
+                "director",
+                "actress",
+                "assistant_director"
+              ],
+              "knownForTitles": [
+                "tt1620777",
+                "tt1612602",
+                "tt7827542"
+              ]
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 8,
+            "personInfo": {
+              "id": "nm0000636",
+              "primaryName": "William Shakespeare",
+              "birthYear": "1564",
+              "deathYear": "1616",
+              "primaryProfessions": [
+                "writer",
+                "soundtrack",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt3894536",
+                "tt5377528",
+                "tt5932378",
+                "tt8632012"
+              ]
+            },
+            "category": "writer",
+            "job": "play",
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 9,
+            "personInfo": {
+              "id": "nm2813891",
+              "primaryName": "Gábor Fabricius",
+              "birthYear": "1975",
+              "deathYear": null,
+              "primaryProfessions": [
+                "director",
+                "writer",
+                "producer"
+              ],
+              "knownForTitles": [
+                "tt7533816",
+                "tt7534396",
+                "tt3893550",
+                "tt5876770"
+              ]
+            },
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+          },
+          {
+            "titleId": "tt7827542",
+            "ordering": 10,
+            "personInfo": {
+              "id": "nm0298146",
+              "primaryName": "Andrea Fullajtár",
+              "birthYear": "1973",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt5099020",
+                "tt0303184",
+                "tt0145503",
+                "tt0294996"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": null
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt7798632",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet",
+        "originalTitle": "Hamlet",
+        "startYear": null,
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": "Comedy",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [],
+        "writers": [
+          {
+            "id": "nm2078681",
+            "primaryName": "Michael Lesslie",
+            "birthYear": "1984",
+            "deathYear": null,
+            "primaryProfessions": [
+              "writer",
+              "producer",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt2884018",
+              "tt3205376",
+              "tt2094766",
+              "tt7598448"
+            ]
+          },
+          {
+            "id": "nm0000636",
+            "primaryName": "William Shakespeare",
+            "birthYear": "1564",
+            "deathYear": "1616",
+            "primaryProfessions": [
+              "writer",
+              "soundtrack",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt3894536",
+              "tt5377528",
+              "tt5932378",
+              "tt8632012"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt7798632",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm1981893",
+              "primaryName": "Riz Ahmed",
+              "birthYear": "1982",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "writer",
+                "producer"
+              ],
+              "knownForTitles": [
+                "tt2872718",
+                "tt3748528",
+                "tt1341167",
+                "tt5363618"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet']"
+          },
+          {
+            "titleId": "tt7798632",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm2078681",
+              "primaryName": "Michael Lesslie",
+              "birthYear": "1984",
+              "deathYear": null,
+              "primaryProfessions": [
+                "writer",
+                "producer",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt2884018",
+                "tt3205376",
+                "tt2094766",
+                "tt7598448"
+              ]
+            },
+            "category": "writer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7798632",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm0000636",
+              "primaryName": "William Shakespeare",
+              "birthYear": "1564",
+              "deathYear": "1616",
+              "primaryProfessions": [
+                "writer",
+                "soundtrack",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt3894536",
+                "tt5377528",
+                "tt5932378",
+                "tt8632012"
+              ]
+            },
+            "category": "writer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7798632",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm1034914",
+              "primaryName": "James Wilson",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "producer",
+                "miscellaneous",
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt1478964",
+                "tt1441395",
+                "tt5742374",
+                "tt8652728"
+              ]
+            },
+            "category": "producer",
+            "job": "producer",
+            "characters": null
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt7623672",
+        "titleType": "movie",
+        "primaryTitle": "Hamlet Demonstration",
+        "originalTitle": "Hamlet Demonstration",
+        "startYear": "2011",
+        "endYear": null,
+        "runtimeMinutes": null,
+        "genres": "Drama",
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [
+          {
+            "id": "nm4444351",
+            "primaryName": "Maxence Kouzoubachian",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "actor",
+              "director",
+              "producer"
+            ],
+            "knownForTitles": [
+              "tt7612466",
+              "tt7574412",
+              "tt7574754",
+              "tt10546932"
+            ]
+          }
+        ],
+        "writers": [
+          {
+            "id": "nm0000636",
+            "primaryName": "William Shakespeare",
+            "birthYear": "1564",
+            "deathYear": "1616",
+            "primaryProfessions": [
+              "writer",
+              "soundtrack",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt3894536",
+              "tt5377528",
+              "tt5932378",
+              "tt8632012"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt7623672",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm4444351",
+              "primaryName": "Maxence Kouzoubachian",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "director",
+                "producer"
+              ],
+              "knownForTitles": [
+                "tt7612466",
+                "tt7574412",
+                "tt7574754",
+                "tt10546932"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet']"
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm8387525",
+              "primaryName": "Valérie Foschia",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress"
+              ],
+              "knownForTitles": [
+                "tt7574754",
+                "tt5931394",
+                "tt10546932",
+                "tt7623672"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Gertrude']"
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm4724879",
+              "primaryName": "Keith Farquhar",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "writer"
+              ],
+              "knownForTitles": [
+                "tt12970484",
+                "tt2085859",
+                "tt5580048",
+                "tt7623672"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Polonius']"
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm0000636",
+              "primaryName": "William Shakespeare",
+              "birthYear": "1564",
+              "deathYear": "1616",
+              "primaryProfessions": [
+                "writer",
+                "soundtrack",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt3894536",
+                "tt5377528",
+                "tt5932378",
+                "tt8632012"
+              ]
+            },
+            "category": "writer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 5,
+            "personInfo": {
+              "id": "nm5449242",
+              "primaryName": "Thomas Barrandon",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "composer"
+              ],
+              "knownForTitles": [
+                "tt2612084",
+                "tt3816790",
+                "tt7623672",
+                "tt5479592"
+              ]
+            },
+            "category": "composer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 6,
+            "personInfo": {
+              "id": "nm9382633",
+              "primaryName": "Lois Eme",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "cinematographer",
+                "camera_department"
+              ],
+              "knownForTitles": [
+                "tt7623672",
+                "tt5450660"
+              ]
+            },
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 7,
+            "personInfo": {
+              "id": "nm6918634",
+              "primaryName": "François Message",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "cinematographer",
+                "camera_department",
+                "editor"
+              ],
+              "knownForTitles": [
+                "tt4205528",
+                "tt8505360",
+                "tt3070722",
+                "tt7623672"
+              ]
+            },
+            "category": "cinematographer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7623672",
+            "ordering": 8,
+            "personInfo": {
+              "id": "nm9382634",
+              "primaryName": "Julie Balmino",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "editor"
+              ],
+              "knownForTitles": [
+                "tt7623672"
+              ]
+            },
+            "category": "editor",
+            "job": null,
+            "characters": null
+          }
+        ],
+        "adult": false
+      },
+      {
+        "id": "tt7544052",
+        "titleType": "movie",
+        "primaryTitle": "Glyndebourne: Hamlet",
+        "originalTitle": "Glyndebourne: Hamlet",
+        "startYear": "2017",
+        "endYear": null,
+        "runtimeMinutes": 163,
+        "genres": null,
+        "averageRating": null,
+        "numVotes": null,
+        "directors": [
+          {
+            "id": "nm1347324",
+            "primaryName": "François Roussillon",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "director",
+              "producer",
+              "actor"
+            ],
+            "knownForTitles": [
+              "tt2705396",
+              "tt2776352",
+              "tt4131244",
+              "tt2254056"
+            ]
+          }
+        ],
+        "writers": [
+          {
+            "id": "nm0423445",
+            "primaryName": "Matthew Jocelyn",
+            "birthYear": null,
+            "deathYear": null,
+            "primaryProfessions": [
+              "actor",
+              "writer"
+            ],
+            "knownForTitles": [
+              "tt0381978",
+              "tt0098238",
+              "tt7544052",
+              "tt0120744"
+            ]
+          },
+          {
+            "id": "nm0000636",
+            "primaryName": "William Shakespeare",
+            "birthYear": "1564",
+            "deathYear": "1616",
+            "primaryProfessions": [
+              "writer",
+              "soundtrack",
+              "miscellaneous"
+            ],
+            "knownForTitles": [
+              "tt3894536",
+              "tt5377528",
+              "tt5932378",
+              "tt8632012"
+            ]
+          }
+        ],
+        "principals": [
+          {
+            "titleId": "tt7544052",
+            "ordering": 1,
+            "personInfo": {
+              "id": "nm1601005",
+              "primaryName": "Vladimir Jurowski",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "music_department",
+                "director",
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt11356762",
+                "tt1444282",
+                "tt0354443",
+                "tt0317965"
+              ]
+            },
+            "category": "self",
+            "job": null,
+            "characters": "['Self - Conductor']"
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 2,
+            "personInfo": {
+              "id": "nm5917381",
+              "primaryName": "Allan Clayton",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "music_department"
+              ],
+              "knownForTitles": [
+                "tt12938380",
+                "tt7544052",
+                "tt11171574",
+                "tt13173398"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Hamlet']"
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 3,
+            "personInfo": {
+              "id": "nm0318530",
+              "primaryName": "Rodney Gilfry",
+              "birthYear": "1959",
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "producer",
+                "soundtrack"
+              ],
+              "knownForTitles": [
+                "tt0260237",
+                "tt1329126",
+                "tt0322059",
+                "tt0159876"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Claudius']"
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 4,
+            "personInfo": {
+              "id": "nm7511154",
+              "primaryName": "David Butt Philip",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt5643402",
+                "tt7544052",
+                "tt12517460",
+                "tt4933640"
+              ]
+            },
+            "category": "actor",
+            "job": null,
+            "characters": "['Laertes']"
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 5,
+            "personInfo": {
+              "id": "nm1347324",
+              "primaryName": "François Roussillon",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "director",
+                "producer",
+                "actor"
+              ],
+              "knownForTitles": [
+                "tt2705396",
+                "tt2776352",
+                "tt4131244",
+                "tt2254056"
+              ]
+            },
+            "category": "director",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 6,
+            "personInfo": {
+              "id": "nm0423445",
+              "primaryName": "Matthew Jocelyn",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actor",
+                "writer"
+              ],
+              "knownForTitles": [
+                "tt0381978",
+                "tt0098238",
+                "tt7544052",
+                "tt0120744"
+              ]
+            },
+            "category": "writer",
+            "job": "libretto by",
+            "characters": null
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 7,
+            "personInfo": {
+              "id": "nm0000636",
+              "primaryName": "William Shakespeare",
+              "birthYear": "1564",
+              "deathYear": "1616",
+              "primaryProfessions": [
+                "writer",
+                "soundtrack",
+                "miscellaneous"
+              ],
+              "knownForTitles": [
+                "tt3894536",
+                "tt5377528",
+                "tt5932378",
+                "tt8632012"
+              ]
+            },
+            "category": "writer",
+            "job": "adapted from: play",
+            "characters": null
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 8,
+            "personInfo": {
+              "id": "nm1919588",
+              "primaryName": "Madjid Hakimi",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "cinematographer",
+                "camera_department",
+                "casting_director"
+              ],
+              "knownForTitles": [
+                "tt7544052",
+                "tt5717678",
+                "tt0105738",
+                "tt5568120"
+              ]
+            },
+            "category": "cinematographer",
+            "job": "director of photography",
+            "characters": null
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 9,
+            "personInfo": {
+              "id": "nm9364756",
+              "primaryName": "Ralph Myers",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "production_designer"
+              ],
+              "knownForTitles": [
+                "tt7544052"
+              ]
+            },
+            "category": "production_designer",
+            "job": null,
+            "characters": null
+          },
+          {
+            "titleId": "tt7544052",
+            "ordering": 10,
+            "personInfo": {
+              "id": "nm1040231",
+              "primaryName": "Barbara Hannigan",
+              "birthYear": null,
+              "deathYear": null,
+              "primaryProfessions": [
+                "actress",
+                "music_department"
+              ],
+              "knownForTitles": [
+                "tt2614400",
+                "tt7544052",
+                "tt0207631",
+                "tt0331004"
+              ]
+            },
+            "category": "actress",
+            "job": null,
+            "characters": "['Ophelia']"
+          }
+        ],
+        "adult": false
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "empty": true,
+        "unsorted": true,
+        "sorted": false
+      },
+      "offset": 0,
+      "pageNumber": 0,
+      "pageSize": 1,
+      "paged": true,
+      "unpaged": false
+    },
+    "totalPages": 8,
+    "totalElements": 8,
+    "last": false,
+    "size": 1,
+    "number": 0,
+    "sort": {
+      "empty": true,
+      "unsorted": true,
+      "sorted": false
+    },
+    "numberOfElements": 8,
+    "first": true,
+    "empty": false
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "status": "OK",
+  "message": "Resources retrieved successfully",
+  "data": {
+    "actor": "Bruce Payne",
+    "connected_to": "Kevin Bacon",
+    "bacon_no": 0,
+    "connection": "Bruce Payne --> (Pyrates - 1991) --> Kevin Bacon"
+  }
+}

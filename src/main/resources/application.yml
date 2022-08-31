@@ -1,0 +1,33 @@
+server:
+  port: 5001
+
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5430/lunatech_imdb
+    username: postgres
+    password: postgres
+  jpa:
+    database: POSTGRESQL
+    properties:
+      hibernate:
+        format_sql: true
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+    hibernate.ddl-auto: none
+    generate-ddl: true
+    show-sql: false
+    open-in-view: false
+  jackson:
+    serialization:
+      fail-on-empty-beans: false
+
+
+  groovy:
+    template:
+      check-template-location: false
+
+module-name: Lunatech Imdb
+version: 1.0
+
+records-limit: 500
+
