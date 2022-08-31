@@ -1,46 +1,12 @@
-# Lunatech IMDb Assessment Instuctions
+# IMDb CopyCat + Six Degrees of Kevin Bacon
 
-We’d like to invite you to do a code assessment as discussed during your
-interview. Please read these instructions carefully to ensure that you implement
-everything as expected. **Be sure to do your work on a separate branch and *only*
-when you are ready for you code to be reviewed, open a single pull request to the
-main branch**. This is important as it will signify to us that you've completed
-the assessment and automatically assign developers from Lunatech to
-review your code. After that we'll get back to you with the next steps, which may
-involve a "hand off" of the application, where you'll give a demo of your
-app and discuss your technical choices and considerations.
-
-The code assessment is not a puzzle; it's not meant to be tricky or confusing.
-If you have any questions do not hesitate to contact us, we'll be glad to answer
-them.
-
-## Guidelines
-
-  - Approach this assessment as you were developing a real world project, we
-    want to see how you conduct your engineering practice (project structure,
-    code quality, readability, documentation and so on). GitHub Actions are
-    enabled for this repo, so feel free to use it.
-  - Please stick to the language of the position you applied for. For example if
-      you've applied for the Scala Developer position, then we'll want to take a
-      look at your Scala. The same goes for Java. At Lunatech we primarily work
-      on the JVM, and you may end up working on various languages on the JVM,
-      but the sake of this assessment, we'll stick to the one you applied for.
-  - Apart from the language, the rest of the stack is up to you. Just make sure
-      it makes sense given the domain you're working in.
-  - The one week limit is to be able to give rapid feedback, you can have more
-    time, just send us an email. It’s OK if you haven’t completed all the
-    requirements, the exercise is meant to start a discussion. Remember:
-    Quality over Quantity.
-  - When you're complete, make sure your branch is up-to-date and create
-      a pr to the main branch.
-  - Try not to truncate the dataset, it’s possible to hold all the
-    information in a single computer (It’s okay to use a Database).
 
 ## The Details
-This assessment is based on the popular website [IMDb](https://www.imdb.com/)
+This Project is based on the popular website [IMDb](https://www.imdb.com/)
 which offers movie and TV show information. They have kindly made their dataset
-publicly available at [IMDb Datasets](https://www.imdb.com/interfaces/). Your
-mission, should you choose to accept it, is to write a web application that can
+publicly available at [IMDb Datasets](https://www.imdb.com/interfaces/). 
+
+This Project's mission, is to write a web application that can
 fulfil the following requirements:
 
 ### Requirement #1 (easy):
@@ -64,7 +30,7 @@ by the user, you must provide what’s the degree of separation between the pers
 
 ## Setup
 
-To speed up the assessment development, we have provided a `docker-compose` file that
+To speed up the Project development, a `docker-compose` file has been provided that
 will run a [PostgreSQL](https://www.postgresql.org/) instance with all the data loaded,
 which you can start with the following command: `docker-compose up`. You can connect to
 this instance from your application with the following values:
