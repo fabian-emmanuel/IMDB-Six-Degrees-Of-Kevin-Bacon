@@ -37,7 +37,31 @@ public interface ActedWithRepository extends JpaRepository<ActedWith, String> {
             WHERE other_actor_name =:source
             LIMIT 1
             """;
-    @Query(value = QUERY, nativeQuery = true)
+
+    String QUERY2 = """
+                        
+            WITH RECURSIVE kevinbacon_table(actor_name, other_actor_name, bacon_no) AS (
+                -- Initialize the recursive query with the target actor
+                SELECT f.actor_name, f.other_actor_name, 0
+                FROM acted_with f
+                WHERE f.actor_name = :target
+               
+                UNION
+               
+                -- Join with the previous level of the recursive query
+                SELECT p.actor_name, f.other_actor_name, p.bacon_no + 1
+                FROM acted_with f, kevinbacon_table p
+                WHERE p.other_actor_name = f.actor_name
+                AND p.bacon_no < 6
+            )
+                        
+            -- Select the result
+            SELECT other_actor_name AS actor, actor_name AS connected_to, bacon_no AS bacon
+            FROM kevinbacon_table
+            WHERE other_actor_name = :source
+            LIMIT 1;
+            """;
+    @Query(value = QUERY2, nativeQuery = true)
     IDegreeOfSeparation findDegreeOfSeparation(String source, String target);
 
     @Query("select count(a)>0 from ActedWith a where a.actor_name =:name or a.other_actor_name =:name")

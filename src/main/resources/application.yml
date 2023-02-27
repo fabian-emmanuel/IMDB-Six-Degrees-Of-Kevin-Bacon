@@ -29,5 +29,5 @@ spring:
 module-name: Lunatech Imdb
 version: 1.0
 
-records-limit: 500
+records-limit: 100
 

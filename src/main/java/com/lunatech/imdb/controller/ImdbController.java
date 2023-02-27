@@ -36,11 +36,11 @@ public class ImdbController {
 
         List<SearchCriteria> searchCriteria = new ArrayList<>();
 
-        if (!StringUtils.isEmpty(title)) {
+        if (StringUtils.isNotEmpty(title)) {
             searchCriteria.add(new SearchCriteria("title", title));
         }
 
-        if (!StringUtils.isEmpty(genre)) {
+        if (StringUtils.isNotEmpty(genre)) {
             searchCriteria.add(new SearchCriteria("genre", genre));
         }
         Page<SearchResponse> result = this.titleService.processSearchResult(pageNo, pageSize, searchCriteria);
